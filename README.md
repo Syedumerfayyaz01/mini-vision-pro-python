@@ -28,6 +28,10 @@ The project currently includes:
 - Two-hand resize for the video window
 - Person segmentation for front or behind-body video depth
 
+## Demo Video
+
+Watch the demo here: [Mini Vision Pro Demo](http://youtube.com/watch?v=uohsfJN9cBo)
+
 ## Preview
 
 ```text
